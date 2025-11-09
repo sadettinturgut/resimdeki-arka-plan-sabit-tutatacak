@@ -1,0 +1,5 @@
+{
+  "name": "resimdeki arka  planı  sabit  tutatacak",
+  "description": "An application that uses AI to remove people or objects from an image while preserving the background.",
+  "requestFramePermissions": []
+}
